@@ -1,5 +1,5 @@
 # LinkedIn-Prototype
- Team project for CMPE 273 at San Jose State University.
+ Team project for CMPE 273(_Enterprise Distributed Systems_) at San Jose State University.
 
 - Built a 3-tier **distributed** and **scalable** application which implemented features of LinkedIn such as Job Search Board,
 Submitting Applications, Recruiter dashboard, etc.
